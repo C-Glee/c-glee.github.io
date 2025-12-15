@@ -17,13 +17,18 @@ An informal code review of artifacts developed during my time in the SNHU Comput
 
 [Browse project files](https://github.com/C-Glee/c-glee.github.io/tree/main/projects/artifact_1)
 
+
+
 **ABCU Advising:** A program which loads and displays course data while benchmarking performance of multiple data structures.
 
 [Browse project files](https://github.com/C-Glee/c-glee.github.io/tree/main/projects/artifact_2)
 
+
+
 **ContactService:** A contact service application which loads contacts from an embedded database and allows CRUD operations via a GUI.
 
 [Browse project files](https://github.com/C-Glee/c-glee.github.io/tree/main/projects/artifact_3)
+
 
 ---
 
