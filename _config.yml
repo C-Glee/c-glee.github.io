@@ -4,7 +4,7 @@ description: "A professional portfolio showcasing capstone and coursework projec
 author: "C. Lee"
 
 # GitHub Pages settings
-theme: architect
+theme: architect@v0.2.0
 markdown: kramdown
 
 # URL settings
