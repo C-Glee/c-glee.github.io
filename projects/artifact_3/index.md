@@ -7,7 +7,8 @@ permalink: /projects/artifact_3/
 ---
 
 ## Contact Service
-### A contact management service demonstrating an understanding of software design as well as UI and database design and implementation.
+
+A contact management service demonstrating an understanding of software design as well as UI and database design and implementation.
 
 ---
 
