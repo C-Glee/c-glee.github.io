@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-# My ePortfolio
-A review of my time in SNHU's Computer Science program, a review of past projects, and enhancements made to those projects.
-
----
-
 ## My Self-Assessment
 
 &nbsp;&nbsp;&nbsp;&nbsp; My time in the computer science program at SNHU has helped me to develop and showcase my technical strengths while shaping my professional goals and values. My journey with SNHU has helped me to hone my skills while encouraging an appetite for constant learning and growth. Working on code reviews and artifact enhancements, and the necessary reflection that comes with these tasks, has taught me the importance of clean, industry-standard code, adapting to feedback, and constantly striving for improvement. By reflecting on past work, I can see both how I’ve grown into an asset for potential employers and how I can continue to grow and improve.
