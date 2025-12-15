@@ -1,7 +1,7 @@
 # Site settings
-title: "C. Lee – Computer Science ePortfolio"
+title: "My ePortfolio"
 description: "A professional portfolio showcasing capstone and coursework projects in software engineering, algorithms, databases, and security."
-author: "C. Lee"
+author: "Carson Lee"
 
 # GitHub Pages settings
 theme: jekyll-theme-architect
