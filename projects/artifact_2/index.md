@@ -7,8 +7,8 @@ permalink: /projects/artifact_2/
 ---
 
 ## ABCU Advising
-### An advising application demonstrating an understanding of data structures and algorithmic logic.
 
+An advising application demonstrating an understanding of data structures and algorithmic logic.
 
 ---
 
