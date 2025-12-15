@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Pet BAG"
 permalink: /projects/artifact_1/
 description: "A pet boarding application demonstrating software design, data management, and security enhancements."
