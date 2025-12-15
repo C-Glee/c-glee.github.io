@@ -10,9 +10,9 @@ _A review of my time in SNHU's Computer Science program, a review of past projec
 ---
 
 ## My Code Review
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=JLMbpiywVxQ)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1rem;">
+  <iframe src="https://www.youtube.com/embed/v=8BtHXfK6Qr4" title="{{PROJECT_NAME}} demo" frameborder="0" allowfullscreen style="position:absolute; top:0; left:0; width:100%; height:100%;"></iframe>
+</div>
 
 **Video:** An informal code review of artifacts developed during my time in the SNHU Computer Science program. 
 
