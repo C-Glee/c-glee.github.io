@@ -11,6 +11,7 @@ _A review of my time in SNHU's Computer Science program, a review of past projec
 
 ## My Code Review
 [![Code Review](http://img.youtube.com/vi/8BtHXfK6Qr4/0.jpg)](http://www.youtube.com/watch?v=8BtHXfK6Qr4 "Code Review")
+
 **Video:** An informal code review of artifacts developed during my time in the SNHU Computer Science program. 
 
 ---
