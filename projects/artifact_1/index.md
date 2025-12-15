@@ -1,11 +1,9 @@
 ---
-layout: page
+
+layout: default
 title: "Pet BAG"
 permalink: /projects/artifact_1/
----
-
-# Pet Boarding And Grooming
-## A pet boarding application demonstrating software design, data management, and security enhancements.
+description: A pet boarding application demonstrating software design, data management, and security enhancements.
 
 ---
 
