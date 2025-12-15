@@ -1,0 +1,25 @@
+# Site settings
+title: "C. Lee – Computer Science ePortfolio"
+description: "A professional portfolio showcasing capstone and coursework projects in software engineering, algorithms, databases, and security."
+author: "C. Lee"
+
+# GitHub Pages settings
+theme: architect
+markdown: kramdown
+
+# URL settings
+url: "https://c-glee.github.io"
+baseurl: ""    
+
+# Navigation
+header_pages:
+  - index.md
+
+# Build behavior
+exclude:
+  - README.md
+  - node_modules
+  - vendor
+
+# Permalinks
+permalink: pretty
