@@ -10,10 +10,7 @@ _A review of my time in SNHU's Computer Science program, a review of past projec
 ---
 
 ## My Code Review
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1rem;">
-  <iframe src="https://www.youtube.com/embed/v=8BtHXfK6Qr4" title="{{PROJECT_NAME}} demo" frameborder="0" allowfullscreen style="position:absolute; top:0; left:0; width:100%; height:100%;"></iframe>
-</div>
-
+[![Code Review](http://img.youtube.com/vi/8BtHXfK6Qr4/0.jpg)](http://www.youtube.com/watch?v=8BtHXfK6Qr4 "Code Review")
 **Video:** An informal code review of artifacts developed during my time in the SNHU Computer Science program. 
 
 ---
