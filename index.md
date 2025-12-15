@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # My ePortfolio
 A review of my time in SNHU's Computer Science program, a review of past projects, and enhancements made to those projects.
 
