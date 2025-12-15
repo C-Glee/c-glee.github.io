@@ -5,9 +5,9 @@ permalink: /projects/artifact_2/
 description: "An advising application demonstrating an understanding of data structures and algorithmic logic."
 ---
 
-[Browse Original Artifact](https://github.com/C-Glee/c-glee.github.io/tree/main/projects/artifact_1/original)
+[Browse Original Artifact](https://github.com/C-Glee/c-glee.github.io/tree/main/projects/artifact_2/original)
 
-[Browse Enhanced Artifact](https://github.com/C-Glee/c-glee.github.io/tree/main/projects/artifact_1/enhanced)
+[Browse Enhanced Artifact](https://github.com/C-Glee/c-glee.github.io/tree/main/projects/artifact_2/enhanced)
 
 ---
 
