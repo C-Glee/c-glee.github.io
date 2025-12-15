@@ -1,8 +1,14 @@
 ---
+
 layout: default
 title: "Contact Service"
 permalink: /projects/artifact_3/
-description: "A contact management service demonstrating an understanding of software design as well as UI and database design and implementation."
+
+---
+
+## Contact Service
+### A contact management service demonstrating an understanding of software design as well as UI and database design and implementation.
+
 ---
 
 [Browse Original Artifact](https://github.com/C-Glee/c-glee.github.io/tree/main/projects/artifact_3/original)
