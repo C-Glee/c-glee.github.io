@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "ABCU Advising"
 permalink: /projects/artifact_2/
 description: "An advising application demonstrating an understanding of data structures and algorithmic logic."
