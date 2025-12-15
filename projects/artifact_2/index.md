@@ -1,8 +1,15 @@
 ---
+
 layout: default
 title: "ABCU Advising"
 permalink: /projects/artifact_2/
-description: "An advising application demonstrating an understanding of data structures and algorithmic logic."
+
+---
+
+## ABCU Advising
+### An advising application demonstrating an understanding of data structures and algorithmic logic.
+
+
 ---
 
 [Browse Original Artifact](https://github.com/C-Glee/c-glee.github.io/tree/main/projects/artifact_2/original)
