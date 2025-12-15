@@ -7,7 +7,8 @@ permalink: /projects/artifact_1/
 ---
 
 ## Pet BAG
-### A pet boarding application demonstrating software design, data management, and security enhancements.
+
+A pet boarding application demonstrating software design, data management, and security enhancements.
 
 ---
 
