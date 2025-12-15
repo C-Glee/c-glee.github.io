@@ -2,7 +2,11 @@
 layout: page
 title: "Pet BAG"
 permalink: /projects/artifact_1/
-description: "A pet boarding application demonstrating software design, data management, and security enhancements."
+---
+
+# Pet Boarding And Grooming
+## A pet boarding application demonstrating software design, data management, and security enhancements.
+
 ---
 
 [Browse Original Artifact](https://github.com/C-Glee/c-glee.github.io/tree/main/projects/artifact_1/original)
