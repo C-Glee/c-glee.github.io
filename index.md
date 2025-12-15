@@ -32,4 +32,4 @@ An informal code review of artifacts developed during my time in the SNHU Comput
 
 ---
 
-_Last updated: {{12/14/2025}}
+_Last updated: 12/14/2025_
