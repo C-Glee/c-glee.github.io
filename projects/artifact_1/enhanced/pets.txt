@@ -1,0 +1,2 @@
+1004,Jake,Dog,5,45.0,5,1,false
+1003,Fiona,Cat,10,5.0,10,4,true
